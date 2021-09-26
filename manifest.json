@@ -9,6 +9,4 @@
     "icons": {
         "128": "logo.png"
     }
-    // activeTab Permission is not required
-    // "permissions": ["activeTab"]
 }
