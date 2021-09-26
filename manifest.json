@@ -8,6 +8,7 @@
     },
     "icons": {
         "128": "logo.png"
-    },
-    "permissions": ["activeTab"]
+    }
+    // activeTab Permission is not required
+    // "permissions": ["activeTab"]
 }
