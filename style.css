@@ -4,6 +4,7 @@ body {
     background-color: aliceblue;
     display: flex;
     justify-content: center;
+    font-family: 'Montserrat', sans-serif;
 }
 
 p {
