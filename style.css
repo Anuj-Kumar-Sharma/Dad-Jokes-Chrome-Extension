@@ -15,4 +15,5 @@ p {
     border-radius: 6px;
     border: 1px solid lightblue;
     padding: 10px;
+    background:linear-gradient(50deg,#ec05e1,#e92e2e);
 }
